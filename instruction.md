@@ -30,9 +30,10 @@
 
 >**git commit -am “message”** – *добавление файлов в отслеживание и создание коммита*
 
->**git mv text.txt test_new.txt** - *переименование файла «text.txt» в «test_new.txt» и проиндексировать это изменение*
+>**git mv text.txt test_new.txt** - *переименовывание файла «text.txt» в «test_new.txt» и проиндексировать это изменение*
 
 >**git branch -r** - *показывает удаленные ветки*
+
 >**git branch lost_branch <№последнего коммита>** - *создает новую ветку от указанного коммита в текущей ветке*
 
 >**git commit --amend -c <commit ID>** - 
